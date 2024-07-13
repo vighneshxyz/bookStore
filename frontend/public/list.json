@@ -1,0 +1,113 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"lorem ipsum",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-psd/book-hardcover-mockup_125540-382.jpg?t=st=1720464158~exp=1720467758~hmac=66cefe2e7c4b55074a0c48badf1f871e2d30dfc3c3efc7188648d47a994ae623&w=740"
+
+    },
+    
+    {   
+        "id":2,
+        "name":"History Book",
+        "title":"lorem ipsum",
+        "price":600,
+        "category":"Fiction",
+        "image":"https://img.freepik.com/free-psd/book-hardcover-mockup_125540-382.jpg?t=st=1720464158~exp=1720467758~hmac=66cefe2e7c4b55074a0c48badf1f871e2d30dfc3c3efc7188648d47a994ae623&w=740"
+
+    },
+    
+    {
+        "id":3,
+        "name":"Story Book",
+        "title":"lorem ipsum",
+        "price":1599,
+        "category":"Drama",
+        "image":"https://img.freepik.com/free-psd/book-hardcover-mockup_125540-382.jpg?t=st=1720464158~exp=1720467758~hmac=66cefe2e7c4b55074a0c48badf1f871e2d30dfc3c3efc7188648d47a994ae623&w=740"
+
+    },
+    
+    {
+        "id":4,
+        "name":"Story Book",
+        "title":"lorem ipsum",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-psd/book-hardcover-mockup_125540-382.jpg?t=st=1720464158~exp=1720467758~hmac=66cefe2e7c4b55074a0c48badf1f871e2d30dfc3c3efc7188648d47a994ae623&w=740"
+
+    },
+    
+    {
+        "id":5,
+        "name":"Story Book",
+        "title":"lorem ipsum",
+        "price":799,
+        "category":"Song",
+        "image":"https://img.freepik.com/free-psd/book-hardcover-mockup_125540-382.jpg?t=st=1720464158~exp=1720467758~hmac=66cefe2e7c4b55074a0c48badf1f871e2d30dfc3c3efc7188648d47a994ae623&w=740"
+
+    },
+    
+    {
+        "id":6,
+        "name":"Story Book",
+        "title":"lorem ipsum",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-psd/book-hardcover-mockup_125540-382.jpg?t=st=1720464158~exp=1720467758~hmac=66cefe2e7c4b55074a0c48badf1f871e2d30dfc3c3efc7188648d47a994ae623&w=740"
+
+    },
+    
+    {
+        "id":7,
+        "name":"Story Book",
+        "title":"lorem ipsum",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-psd/book-hardcover-mockup_125540-382.jpg?t=st=1720464158~exp=1720467758~hmac=66cefe2e7c4b55074a0c48badf1f871e2d30dfc3c3efc7188648d47a994ae623&w=740"
+
+    },
+    
+    {
+        "id":8,
+        "name":"Story Book",
+        "title":"lorem ipsum",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-psd/book-hardcover-mockup_125540-382.jpg?t=st=1720464158~exp=1720467758~hmac=66cefe2e7c4b55074a0c48badf1f871e2d30dfc3c3efc7188648d47a994ae623&w=740"
+
+    },
+    
+    {
+        "id":9,
+        "name":"Story Book",
+        "title":"lorem ipsum",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-psd/book-hardcover-mockup_125540-382.jpg?t=st=1720464158~exp=1720467758~hmac=66cefe2e7c4b55074a0c48badf1f871e2d30dfc3c3efc7188648d47a994ae623&w=740"
+
+    },
+    
+    {
+        "id":10,
+        "name":"Story Book",
+        "title":"lorem ipsum",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-psd/book-hardcover-mockup_125540-382.jpg?t=st=1720464158~exp=1720467758~hmac=66cefe2e7c4b55074a0c48badf1f871e2d30dfc3c3efc7188648d47a994ae623&w=740"
+
+    },
+    
+    {
+        "id":11,
+        "name":"Story Book",
+        "title":"lorem ipsum",
+        "price":999,
+        "category":"Food",
+        "image":"https://img.freepik.com/free-psd/book-hardcover-mockup_125540-382.jpg?t=st=1720464158~exp=1720467758~hmac=66cefe2e7c4b55074a0c48badf1f871e2d30dfc3c3efc7188648d47a994ae623&w=740"
+
+    }
+
+
+]
